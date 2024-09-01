@@ -1,0 +1,6 @@
+name: makechild
+functions:
+  helloWorld:
+    path: makechild.ts:helloWorld
+    command:
+      name: "Say makechild"
